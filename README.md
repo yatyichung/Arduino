@@ -7,3 +7,6 @@
 
 ![led_switch](https://user-images.githubusercontent.com/78622789/157469016-af88adf8-07cf-4ac4-92d5-0009b88211bb.png)
 
+<h2><a href="https://github.com/yatyichung/Arduino/blob/main/servo.cpp">Servo</a></h2>
+
+![servo](https://user-images.githubusercontent.com/78622789/157471061-43c983b0-0af1-438e-a911-01d8c900aead.png)
